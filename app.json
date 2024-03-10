@@ -1,0 +1,11 @@
+{
+  "name": "KarnaHai",
+  "displayName": "RoutineMaster"
+    // <project-root>/app.json
+{
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-2441370380840985~3970275496",
+   "ios_app_id": "ca-app-pub-2441370380840985~3970275496"
+  }
+}
+}
